@@ -1,5 +1,9 @@
 <?php
-
+/*
+Developed by: Lucas Schirm
+E-mail: lucas@ogenial.com.br
+Site: http://www.ogenial.com.br
+*/  
 $dir = dirname(__FILE__) . "/";
 $patch = dirname(__FILE__) . "/patch/";
 
